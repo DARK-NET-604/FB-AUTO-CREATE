@@ -14,7 +14,6 @@ apt install git
 rm -rf FB-AUTO-CREATE
 git clone https://github.com/DARK-NET-604/FB-AUTO-CREATE
 cd FB-AUTO-CREATE
-pip install requests bs4 mechanize features
 python create.py
 ```
 ## Find Me on :
